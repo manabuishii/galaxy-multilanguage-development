@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<toolbox monitor="true">
+  <section id="translation" name="Translation">
+    <tool file="/galaxy-central/test/functional/tools/translation/translation.xml" />
+  </section>
+</toolbox>
